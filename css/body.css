@@ -1,0 +1,28 @@
+body {
+    background-color: blue;
+}
+
+h2 {
+    margin-left: 500px;
+    height: 100px;
+    width: auto;
+}
+
+form {
+    margin-top: 500px;
+}
+
+.static {
+    height: 250px;
+    width: 250px;
+}
+
+.creature {
+    height: 250px;
+    width: 250px;
+}
+
+.api {
+    height: 250px;
+    width: 250px;
+}

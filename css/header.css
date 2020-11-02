@@ -1,0 +1,11 @@
+.jumbotron {
+    background: url(../assets/Detroit.jpg) center, bottom;
+    background-size: cover;
+    height: 50vh;
+    color: gold;
+}
+
+.lead {
+
+    margin-top: 100px;
+}
